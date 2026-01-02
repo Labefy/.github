@@ -5,4 +5,4 @@
 
 Labefy is an organisation repository to allow 3rd parties to fork, and modify open source code, for projects, games, shows, and movies created by Velivian Fesothe.
 
-More info: <a href="https://labefy.com">labefy.com</a>
+Labefy is a subsidary of Furtainment.com, More info: <a href="https://labefy.com">labefy.com</a>
